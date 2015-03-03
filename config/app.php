@@ -144,6 +144,7 @@ return [
 		'XFB\Providers\ConfigServiceProvider',
 		'XFB\Providers\EventServiceProvider',
 		'XFB\Providers\RouteServiceProvider',
+		'XFB\Providers\AnnotationsServiceProvider',
 
 	],
 
